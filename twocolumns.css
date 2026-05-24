@@ -7,9 +7,11 @@ body{
 .container{
     border: 5px solid #f7dfbe;
 
-    max-width: 900px;
+    width: 900px;
+  
     background-color: white;
     padding: 15px;
+    margin:auto
 }
 .header{
     background-color: #bad80a;
